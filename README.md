@@ -79,13 +79,7 @@ This project demonstrates how to set up a Retrieval-Augmented Generation (RAG) p
 - Ensure you have valid API keys for OpenAI and Pinecone in the `.env` file.
 - Customize the example queries, true labels, and other parameters as needed for your specific use case.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
 
 
 
